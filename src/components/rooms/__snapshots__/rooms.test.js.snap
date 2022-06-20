@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Checkbox /> - Component renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="row"
+  >
+    <div
+      class="d-grid gap-2 d-md-flex justify-content-md-start roomSection"
+    >
+      <button
+        class="btn btn-outline-secondary"
+        type="button"
+        value="0"
+      >
+        Living Room
+      </button>
+      <button
+        class="btn btn-outline-secondary"
+        type="button"
+        value="1"
+      >
+        Kitchen
+      </button>
+      <button
+        class="btn btn-outline-secondary"
+        type="button"
+        value="2"
+      >
+        Laundry
+      </button>
+      <button
+        class="btn btn-outline-secondary"
+        type="button"
+        value="3"
+      >
+        Home Office
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

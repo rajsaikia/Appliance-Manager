@@ -1,0 +1,14 @@
+.cardSection{
+    max-width: 170px !important;
+    margin: 5px !important;
+    cursor: pointer;    
+}
+.selected{
+    color: #ffc107;
+    border-color: #ffc107;
+}
+
+.addItem{
+    text-align: center;
+    margin-top: 25px;
+}

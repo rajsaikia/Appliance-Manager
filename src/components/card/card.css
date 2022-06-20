@@ -1,0 +1,18 @@
+.cardImg {
+    width: 120px;
+    height: 150px !important;
+}
+.centerAlign{
+    text-align: center;
+}
+
+.leftMargin{
+    width: 170px;
+}
+
+
+  @media screen and (min-width: 480px) {
+    .separator{
+        border-right: 1px solid;
+    }
+  }

@@ -1,0 +1,13 @@
+.section{
+    padding-top: 10px;
+    padding-left: 50px;
+}
+.rightAlign{
+    text-align: right;
+}
+.marginLeft{
+    margin-left: 10px;
+}
+.paddingLeft{
+    padding-left: 50px !important;
+}

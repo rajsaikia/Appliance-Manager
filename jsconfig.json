@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"experimentalDecorators": true,
+		"moduleResolution": "node",
+		"baseUrl": "src",
+		"paths": {
+			"*": ["src/*"]
+		},
+		"outDir": "./dist"
+	},
+	"exclude": ["node_modules"]
+}
